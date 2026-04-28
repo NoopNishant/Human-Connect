@@ -1,16 +1,42 @@
-# React + Vite
+# 🌍 Human Connect
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Disaster Relief & Community Coordination Platform**
 
-Currently, two official plugins are available:
+Human Connect is a high-performance platform connecting NGOs to real-time field reports and volunteers. It features dynamic assessment templates, skill-based matching, and a premium glassmorphism dashboard. Built with React 19, it digitizes emergency response to ensure rapid, coordinated aid distribution where it’s needed most.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+[**View Live Application**](https://human-connect-oil21ngsn-noopnishants-projects.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+- **Smart Incident Reporting**: Submit rapid assessment reports with category-specific questionnaires.
+- **Dynamic Template Builder**: Create and manage custom report templates for different relief categories.
+- **Volunteer Matching**: Intelligent filtering of volunteers based on skills (Medical, Logistics, Labor) and location.
+- **Interactive Dashboard**: Real-time visualization of community needs and urgency levels.
+- **Premium UI/UX**: Modern glassmorphism design with Dark/Light mode support and rapid keyboard navigation (`Alt + [1-4]`).
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend**: React 19, Vite
+- **Styling**: Vanilla CSS (Custom Design System)
+- **Icons**: Lucide React
+- **State Management**: Optimized in-memory store for rapid prototyping
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Local Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone <your-repo-url>
+   ```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Run development server**:
+   ```bash
+   npm run dev
+   ```
+
+---
+
+*Built for Hack2Skills - Empowering communities through technology.*
